@@ -1,6 +1,6 @@
 # Simple Notes App
 
-A simple notes application using the React framework. This application is the final assignment result from learning at Dicoding Indonesia
+Frontend for a simple note application using the React framework. This application is the result of the final assignment from learning at Dicoding Indonesia
 
 # React + Vite
 
